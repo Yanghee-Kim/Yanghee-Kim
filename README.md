@@ -1,6 +1,5 @@
-## Hi! I'm YangHeeKim.
+# Hi! I'm YangHeeKim.
 
-## 👩‍💻 Backend Developer
-
+- 💼 Position: Backend Developer (Java / Spring Boot)
 - 🛠 Tech Stack: Java, Spring Boot, MyBatis, Oracle, MySQL, JSP
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/YangHeeKim0830)
+- 🔗 LinkedIn: [linkedin.com/in/YangHeeKim0830](www.linkedin.com/in/YangHeeKim0830)
