@@ -1,1 +1,1 @@
-# 🤖  Hi! I'm Yanghee Kim. 🐯
+# 🤖  Hi! I'm YangHee Kim. 🐯
