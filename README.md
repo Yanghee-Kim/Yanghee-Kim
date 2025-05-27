@@ -30,6 +30,9 @@ Backend Developer
 ## 🔗 LinkedIn
 [linkedin.com/in/yangheekim0830](https://www.linkedin.com/in/yangheekim0830)
 
+## 🔗 blog
+[https://www.yhk99.tistory.com](https://yhk99.tistory.com)
+
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanghee-Kim&layout=compact&theme=dark)
